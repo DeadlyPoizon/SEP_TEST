@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session1", "Session1", "{F206F2C7-E882-4C95-A0CE-A48549C1C28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1", "Ex1\Ex1.csproj", "{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SEP Test", "SEP Test", "{C53CB496-E7B7-4A62-AB46-7CB91631BD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Test", "API Test\API Test.csproj", "{47262779-744B-4D76-AED2-9B10752594CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3} = {F206F2C7-E882-4C95-A0CE-A48549C1C28C}
+		{47262779-744B-4D76-AED2-9B10752594CC} = {C53CB496-E7B7-4A62-AB46-7CB91631BD6A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAD5CE4-CA3F-42A1-AC0E-F0713F4E07A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47262779-744B-4D76-AED2-9B10752594CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47262779-744B-4D76-AED2-9B10752594CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47262779-744B-4D76-AED2-9B10752594CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47262779-744B-4D76-AED2-9B10752594CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

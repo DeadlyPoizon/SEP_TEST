@@ -1,0 +1,19 @@
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\API Test.exe
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\API Test.deps.json
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\API Test.runtimeconfig.json
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\API Test.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\ref\API Test.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\API Test.pdb
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.csproj.AssemblyReference.cache
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.AssemblyInfoInputs.cache
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.AssemblyInfo.cs
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.csproj.CoreCompileInputs.cache
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\ref\API Test.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.pdb
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.genruntimeconfig.cache
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\Apache.Arrow.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\Microsoft.Data.Analysis.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\poizo\RiderProjects\Test1\API Test\obj\Debug\net6.0\API Test.csproj.CopyComplete
